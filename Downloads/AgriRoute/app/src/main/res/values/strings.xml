@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AgriRoute</string>
+    <string name="logo_description">Logo</string>
+    <string name="nav_deliveries">Deliveries</string>
+    <string name="nav_routes">Routes</string>
+    <string name="nav_updates">Updates</string>
+</resources>

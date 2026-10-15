@@ -1,0 +1,7 @@
+# Put this line in AgriRoute/local.properties (same folder as settings.gradle).
+# Keep the sdk.dir line Android Studio created; add this line under it.
+# This file is only a template. Never paste real keys into this example file.
+TOMTOM_API_KEY=your_tomtom_api_key_here
+
+# TomTom Routing and Traffic APIs use the same TomTom key.
+# Open-Meteo forecast endpoint used by this app does not require an API key.

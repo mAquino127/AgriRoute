@@ -1,0 +1,14 @@
+# API keys and machine-specific paths live here. NEVER commit this file.
+local.properties
+
+*.iml
+.gradle/
+build/
+.idea/
+.DS_Store
+captures/
+.externalNativeBuild/
+.cxx/
+*.apk
+*.aab
+**/local.properties
